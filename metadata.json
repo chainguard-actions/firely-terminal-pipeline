@@ -1,0 +1,7 @@
+{
+  "owner": "FirelyTeam",
+  "name": "firely-terminal-pipeline",
+  "visibility": "internal",
+  "description": "Run Firely.Terminal and the offical FHIR Java Validator in a GitHub Actions pipeline",
+  "block_publish": false
+}
